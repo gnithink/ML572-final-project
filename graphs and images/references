@@ -1,0 +1,60 @@
+Fit or Unﬁt : Analysis and Prediction of ‘Closed Questions’on Stack Overﬂow
+
+Denzil Correa, Ashish SurekaIndraprastha Institute of Information TechnologyIIIT-Delhi{denzilc, ashish} @iiitd.ac.in
+
+Publication:COSN '13: Proceedings of the first ACM conference on Online social networksOctober 2013 Pages 201–212https://doi.org/10.1145/2512938.2512954
+
+https://dl.acm.org/doi/pdf/10.1145/2512938.2512954?casa_token=kM0EPq42jsAAAAAA:55gkvMVIN9eYQutddUELZcSeriZUHbo-Kup3p5DjnObFQcXXi6ir5FLGEJ-95BQn4bfVy5dTkDMD
+
+
+A comparative study of TF-IDF, LSI and multi-words for text classification
+
+
+Wen ZhangTaketoshi YoshidaXijin Tang  Expert Systems with Applications 2010
+
+
+
+????
+Predicting Tags for StackOverflow Posts
+
+Clayton Stanley (clayton.stanley@rice.edu)
+Department of Psychology, 6100 Main Street
+Houston, TX 77005 USA
+
+Michael D. Byrne (byrne@rice.edu)
+Departments of Psychology and Computer Science, 6100 Main Street
+Houston, TX 77005 USA
+
+http://creu-research.ysu.edu/docs/stanley.pdf
+
+
+https://www.kaggle.com/c/facebook-recruiting-iii-keyword-extraction/overview/
+
+Text Classification by Augmenting the Bag-of-Words Representation with
+Redundancy-Compensated Bigrams 
+
+Constantinos Boulis  Mari Ostendorf  
+Proceedings of the Workshop on
+Feature Selection for Data Mining:
+Interfacing Machine Learning and Statistics
+in conjunction with the
+2005 SIAM International Conference on Data Mining
+April 23, 2005
+Newport Beach, CA
+
+
+Qiaozhu Mei and Yi Zhang. 2008. Automatic web
+tagging and person tagging using language models.
+In Advanced Data Mining and Applications, pages
+741–748. Springer.
+
+Sanjay Sood, Sara Owsley, Kristian J Hammond, and
+Larry Birnbaum. 2007. Tagassist: Automatic tag
+suggestion for blog posts. In ICWSM.
+
+Clayton Stanley and Michael D Byrne. 2013. Predicting tags for stackoverflow posts. In Proceedings of
+ICCM 2013.
+
+Zhiyuan Liu, Xinxiong Chen, and Maosong Sun. 2011.
+A simple word trigger method for social tag suggestion. In Proceedings of the Conference on Empirical Methods in Natural Language Processing, pages
+1577–1588. Association for Computational Linguistics.
