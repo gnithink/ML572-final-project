@@ -1,2 +1,2 @@
-# ML572-final-project
+# Tagging of Stack Overflow Queries
 machine final project
